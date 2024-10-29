@@ -1,0 +1,13 @@
+.btn {
+  max-width: 16rem;
+  background-color: #ed4c5c;
+  border-radius: 0.6rem;
+  text-align: center;
+  color: white;
+  padding: 1.7rem 3.4rem;
+  text-decoration: none;
+  font-size: 1.4rem;
+  border: none;
+  display: inline-block;
+  white-space: nowrap;
+}

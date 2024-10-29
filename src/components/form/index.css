@@ -1,0 +1,11 @@
+.fieldset--row {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+.status-message {
+  margin-top: 2rem;
+  color: red;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+}

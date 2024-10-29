@@ -36,3 +36,4 @@ Please do not try to push to the source repository, it won't work.
 If at any point something is unclear or you don’t know how to proceed, just use your general web development knowledge and do as you feel is best, keeping in mind best standards and practices. We know you will do well :)
 
 We are excited to see your solutions and learn more about your expertise as a web developer. Thank you once again for your interest in joining our team, and we wish you the best of luck!
+# bold-task
